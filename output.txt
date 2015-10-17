@@ -1,0 +1,30 @@
+Version: 4
+Header length: 5
+Total length: 48
+ID: 7402
+Flags:
+	Reserved: 0
+	Don't Fragment: 0
+	More Fragments: 1
+Fragment offset: 5020
+TTL: 63
+Protocol: 6(TCP)
+Header checksum: 27047
+Source IP: 90.103.191.190:49815 Class A
+Destination IP: 109.210.58.238:42680 Class A
+Sequence number: 1686218975
+Acknowledgement number: 0
+Data Offset: 5
+Flags:
+	Urgent: 0
+	Acknowledge: 0
+	PSH: 0
+	RST: 0
+	Sync: 0
+	Finish: 0
+Window size: 63170
+TCP Checksum: 7755
+Data(1) 21979
+Data(2) 39749
+Data(3) 29275
+Data(4) 61857
